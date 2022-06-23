@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zesKwdHbZJEbQjDvREzGDeCMe4hKUCXIjM5K6um94hzGX+nc96rQpXmnF38bFbvE6aRg4O+c9eep19/SCe8u4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Web7\\Ahmet-Kargin\\BusReservation_Project\\BusReservation.Core\\BusReservation.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wissen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

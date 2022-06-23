@@ -1,0 +1,12 @@
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\bin\Debug\net5.0\BusReservation.Core.deps.json
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\bin\Debug\net5.0\BusReservation.Core.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\bin\Debug\net5.0\BusReservation.Core.pdb
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\ref\BusReservation.Core.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\BusReservation.Core.pdb
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Core\obj\Debug\net5.0\refint\BusReservation.Core.dll

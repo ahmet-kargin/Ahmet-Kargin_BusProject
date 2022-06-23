@@ -1,0 +1,15 @@
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\bin\Debug\net5.0\BusReservation.Entity.deps.json
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\bin\Debug\net5.0\BusReservation.Entity.runtimeconfig.json
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\bin\Debug\net5.0\BusReservation.Entity.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\bin\Debug\net5.0\BusReservation.Entity.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\bin\Debug\net5.0\BusReservation.Entity.pdb
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\ref\BusReservation.Entity.dll
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.pdb
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\BusReservation.Entity.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\Web7\Ahmet-Kargin\BusReservation_Project\BusReservation.Entity\obj\Debug\net5.0\refint\BusReservation.Entity.dll

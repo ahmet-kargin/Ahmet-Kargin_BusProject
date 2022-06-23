@@ -1,0 +1,52 @@
+﻿@model TicketDirection
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="h3">Check Ticket</h1> <hr /> <br />
+        <table class="table table table-bordered shadow-sm mt-3">
+            <thead>
+                <tr>
+                    <th style="width:20px;">TicketID</th>
+                    <th style="width:145px;">FullName</th>
+                    <th style="">Mail</th>
+                    <th style="width:25px;">Tel</th>
+                    <th style="width:70px;">Seat No</th>
+                    <th style="width:80px;">Price</th>
+                    <th style="width:85px;">Direction No</th>
+                    <th style="width:165px;">Cancellation</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Tickets.Count > 0)
+                {
+                    @foreach (var item in Model.Tickets)
+                    {
+                        <tr>
+                            <td>@item.TicketId</td>
+                            <td>@item.PassengerName @item.PassengerSurname</td>
+                            <td>@item.PassengerMail</td>
+                            <td>@item.PassengerTel</td>
+                            <td>@item</td>
+                            <td>@item.SeatNo</td>
+                            <td>@item.Price ₺</td>
+                            <td>@item.DirectionId</td>
+                            <td>
+                                <form asp-action="CancelTicket" asp-controller="User" method="POST" style="display:inline;">
+                                    <input type="hidden" name="ticketId" value="@item.TicketId" />
+                                    <button type="submit" class="btn btn-danger btn-md mr-2" style="color: white;">Cancel the Ticket</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <p>No registered ticket found</p>
+                }
+            </tbody>
+
+        </table>
+    </div>
+</div>
